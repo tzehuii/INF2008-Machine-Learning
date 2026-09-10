@@ -84,20 +84,6 @@ Stroke risk prediction involves asymmetric costs between two types of classifica
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites & Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/stroke-risk-prediction.git
-cd stroke-risk-prediction
-
-# Install required dependencies
-pip install -r requirements.txt
-```
-
----
 
 ## 💡 Originality Statement
 
